@@ -18,7 +18,7 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-7819083142597188~3761997052"/>
+            android:value="CHANGE TO YOURS!"/>
 
         <!-- SplashActivity is the launcher -->
         <activity

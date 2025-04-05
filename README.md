@@ -48,13 +48,13 @@ Developed by **Or Saban**, the app uses a free API provided by **Deepseek**, whi
 
 ---
 
-## 🚀 Future Plans
+## 🚀 Future Plans (only if profitable)
 
-- Add support for ChatGPT API
-- Save scenario history
-- Dark mode support
-- Save stories for later
-- Possible release to Google Play Store
+- 🔁 Add support for ChatGPT's paid API for more accurate and creative responses  
+- 🕒 Save scenario history  
+- 🌙 Add dark mode support  
+- 📚 Allow saving favorite stories for later  
+- 📱 Possible release to the Google Play Store  
 
 ---
 

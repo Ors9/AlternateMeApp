@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer black circle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,0C83.7,0 108,24.3 108,54C108,83.7 83.7,108 54,108C24.3,108 0,83.7 0,54C0,24.3 24.3,0 54,0Z"/>
+
+    <!-- Lightning bolt shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,28 L62,28 L52,52 H66 L42,80 L50,56 H36 Z"/>
+</vector>

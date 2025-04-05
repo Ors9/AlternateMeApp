@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="purple_500">#2196F3</color>       <!-- Blue primary -->
+    <color name="purple_700">#1976D2</color>       <!-- Darker blue -->
+
+    <!-- Secondary color -->
+    <color name="teal_200">#FF9800</color>          <!-- Orange -->
+
+    <!-- Background and text colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#212121</color>             <!-- Dark gray -->
+</resources>

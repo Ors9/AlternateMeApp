@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme using Material Components -->
+    <style name="Theme.AlternateMe" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <!-- A darker variant of the primary color. -->
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <!-- Default background color for the app window. -->
+        <item name="android:windowBackground">@color/white</item>
+        <!-- Default text appearance for headlines. -->
+        <item name="textAppearanceHeadline6">@style/TextAppearance.App.Headline</item>
+    </style>
+
+    <!-- Custom text appearance for headlines -->
+    <style name="TextAppearance.App.Headline" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Theme.AlternateMe.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/gradient_background</item>
+    </style>
+
+</resources>

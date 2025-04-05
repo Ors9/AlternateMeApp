@@ -9,8 +9,8 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class ChatGptClient {
-    private static final String API_URL = "https://openrouter.ai/api/v1/chat/completions";
-    private static final String API_KEY = "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";
+    private static final String API_URL = "CHANGE TO YOURS!";
+    private static final String API_KEY = "CHANGE TO YOURS!";
 
     private final OkHttpClient client = new OkHttpClient();
 
